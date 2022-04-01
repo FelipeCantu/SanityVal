@@ -25,3 +25,14 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+#H1 Client side Configuration 
+##H2 This is like if you were a moderator and were givin access to the right to allow post and comments or not
+
+
+[Sanity Manager](https://sanityval.sanity.studio/)
+
+##H2 Actual Website
+###H3 *this was build using Vercel*
+[Website Page](https://sanity-val.vercel.app/)
